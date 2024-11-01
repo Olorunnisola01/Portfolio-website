@@ -18,22 +18,11 @@ bio: Olorunnisola is a mechanical engineering student driven by a passion for in
 
 # Interests to show in About widget
 interests:
-- icon: book
-  icon_pack: fas
-  label: Industrial robotics
-- icon: book
-  icon_pack: fas
-  label: Production engineering
-- icon: book
-  icon_pack: fas
-  label: Manufacturing engineering
-- icon: book
-  icon_pack: fas
-  label: Machine Learning
-- icon: book
-  icon_pack: fas
-  label: Data Engineering
-
+  - interest: Industrial robotics
+  - interest: Production engineering
+  - interest: Manufacturing engineering
+  - interest: Machine Learning
+  - interest: Data Engineering
 
 # Education to show in About widget
 education:
