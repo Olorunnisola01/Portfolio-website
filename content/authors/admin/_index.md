@@ -6,7 +6,7 @@ title: Adeleke Olorunnisola
 superuser: true
 
 # Role/position/tagline
-role: MEng Student in Mechanical Engineering
+role: M.Eng Student in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
