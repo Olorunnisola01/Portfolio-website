@@ -18,8 +18,8 @@ bio: I am a data scientist with a passion for creating innovative solutions to c
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Computational Social Science
+book: Data Science
+book: Computational Social Science
 - Natural Language Processing 
 - Machine Learning
 - Data Engineering
