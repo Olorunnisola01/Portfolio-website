@@ -21,8 +21,8 @@ interests:
   - 📚 Robotics
   - 📚 Production engineering
   - 📚 Manufacturing engineering
-  - 📚 Machine/Deep Learning
-  - 📚 Data Engineering
+  - 📚 Machine/Deep learning
+  - 📚 Data engineering
 
 # Education to show in About widget
 education:
