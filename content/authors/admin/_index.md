@@ -88,7 +88,7 @@ email: "adelekeoo@futa.edu.ng"
 highlight_name: false
 ---
 
-Olorunnisola is currently a student in Mechanical Engineering at the [Federal University of Technology, Akure](http://www.futa.edu.ng), driven by a passion for innovation and complex problem-solving. My academic journey began with a B.Eng in Mechanical Engineering, and I’m currently advancing my expertise in robotics, focusing on technologies such as computer vision and deep learning to develop transformative solutions.
+Olorunnisola is currently a student in Mechanical Engineering at the [Federal University of Technology, Akure](http://www.futa.edu.ng), driven by a passion for innovation and complex problem-solving. My academic journey began with a B.Eng in Mechanical Engineering, and I’m currently advancing my expertise in robotics, focusing on technologies such as computer vision and deep learning to develop transformative solutions. 
 
 My interests lie at the intersection of industrial robotics, production engineering, manufacturing engineering, machine learning, and data engineering. I am constantly exploring new avenues to leverage these fields for impactful advancements in technology.
 
