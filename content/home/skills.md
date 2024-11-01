@@ -30,14 +30,14 @@ feature:
   name: "ROS"
 - icon: "skills/Gazebo"
   icon_pack: custom
-  name: "Gazebo"
-- icon: skills/tensorflow
-  icon_pack: "custom"
+  name: Gazebo
+- icon: "skills/Tensorflow_logo"
+  icon_pack: custom
   name: Tensorflow
 - icon: "skills/pytorch"
   icon_pack: custom
   name: PyTorch
-- icon: "skils/SolidWorks"
+- icon: "skils/solidWorks"
   icon_pack: custom
   name: SolidWorks
 - icon: "skills/Arduino"
