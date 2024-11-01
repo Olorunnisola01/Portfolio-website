@@ -30,12 +30,12 @@ education:
 #   - course: MSc, Financial Engineering
 #     institution: WorldQuant University
 #     year: 2022-Present
-  - course: B.Eng in Mechanical Engineering
-    institution: Federal University of Technology, Akure
-    year: 2013-2018
   - course: M.Eng in Mechanical Engineering
     institution: Federal University of Technology, Akure
-    year: 2023-2025
+    year: 2025
+  - course: B.Eng in Mechanical Engineering
+    institution: Federal University of Technology, Akure
+    year: 2018
 
  
 
