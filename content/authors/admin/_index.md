@@ -18,11 +18,11 @@ bio: Olorunnisola is a mechanical engineering student driven by a passion for in
 
 # Interests to show in About widget
 interests:
-  - Industrial robotics
-  - Production engineering
-  - Manufacturing engineering
-  - Machine Learning
-  - Data Engineering
+  - 📚 Industrial robotics
+  - 📚 Production engineering
+  - 📚 Manufacturing engineering
+  - 📚 Machine Learning
+  - 📚 Data Engineering
 
 # Education to show in About widget
 education:
