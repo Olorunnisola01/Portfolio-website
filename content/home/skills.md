@@ -37,7 +37,7 @@ feature:
 - icon: "skills/pytorch"
   icon_pack: custom
   name: PyTorch
-- icon: "skils/solidworks_logo"
+- icon: "skils/solidworks_logo.png"
   icon_pack: custom
   name: SolidWorks
 - icon: "skills/Arduino"
