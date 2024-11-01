@@ -16,33 +16,33 @@ subtitle: My technical skills and core competencies
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: "skills/matlab-project-icon"
+- icon: "skills/matlab"
   icon_pack: custom
   name: Matlab
 - icon: "skills/python-5"
   icon_pack: custom
   name: Python
-- icon: chart-line
-  icon_pack: fas
-  name: Analytics
-- icon: "skills/djangoproject-icon"
+- icon: "skills/C++"
+  icon_pack: custom
+  name: C++
+- icon: "skills/ROS"
+  icon_pack: custom
+  name: "ROS"
+- icon: "skills/Gazebo"
+  icon_pack: custom
+  name: "Gazebo"
+- icon: skills/tensorflow
   icon_pack: "custom"
-  name: "Django"
-- icon: "skills/stata1"
-  icon_pack: "custom"
-  name: "STATA"
-- icon: language
-  icon_pack: fas
-  name: Natural Language Processing
-- icon: database
-  name: SQL
-  icon_pack: fas
+  name: Tensorflow
 - icon: "skills/pytorch"
-  icon_pack: "custom"
+  icon_pack: custom
   name: PyTorch
-- icon: "skills/keras"
-  icon_pack: "custom"
-  name: Keras
+- icon: "skils/SolidWorks"
+  icon_pack: custom
+  name: SolidWorks
+- icon: "skills/Arduino"
+  icon_pack: custom
+  name: Arduino
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
