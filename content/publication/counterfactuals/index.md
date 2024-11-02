@@ -22,7 +22,7 @@ authors:
 author_notes: ""
 
 date: "2021-10-11T00:00:00Z"
-doi: "https://doi.org/10.5281/zenodo.5562660"
+doi: 'https://doi.org/10.5281/zenodo.5562660'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-01-01T00:00:00Z"
@@ -52,7 +52,7 @@ links:
 - name: Paper
   url: https://zenodo.org/record/5562660
 
-url_pdf: ''
+url_pdf: 'static/uploads/resume.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
