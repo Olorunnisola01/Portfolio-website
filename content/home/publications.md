@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-exclude_featured: false
+exclude_featured: true
 
 # This file represents a page section.
 headless: true
