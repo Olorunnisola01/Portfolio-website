@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adelekeoo@futa.edu.ng'
+  link: 'mailto:olorunnisola01@gmail.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/olorunnisola01
@@ -70,7 +70,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "adelekeoo@futa.edu.ng"
+email: "olorunnisola01@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
