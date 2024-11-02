@@ -31,9 +31,26 @@ experience:
     date_end: '2022-12-10'
     description: |2-
     
-        * Achieved significant improvements in detergent production efficiency, cost reduction, and product quality by conducting a thorough analysis of production data. 
+        * Achieved significant improvements in detergent production efficiency, cost reduction, and product quality by conducting a thorough analysis of        production data. 
         * Designed and implemented process changes that led to a 10% increase in overall production efficiency.
         * Supervised operators and production personnel to ensure the consistent production of high-quality detergents, liquid-wash and soap.
+
+
+  - title: Engineering Intern
+    company: Henkel
+    company_url: 'https://www.americanexpress.com/en-in/'
+    company_logo: org-amex
+    location: Ibadan, Nigeria
+    date_start: '2019-04-10'
+    date_end: '2019-12-18'
+    description: |2-
+    
+        * Coordinated with vendors to ensure the successful execution of quality projects, maintaining high standards and adherence to specifications. 
+        * Championed plumbing maintenance initiatives by collaborating closely with technicians to ensure system reliability and performance.
+        * Conducted comprehensive risk analyses for all projects to enhance safety and mitigate potential hazards.
+
+
+  
 
   - title: Operations Intern
     company: British American Tobacco Nigeria
