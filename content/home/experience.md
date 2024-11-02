@@ -35,6 +35,18 @@ experience:
         * Designed and implemented process changes that led to a 10% increase in overall production efficiency.
         * Supervised operators and production personnel to ensure the consistent production of high-quality detergents, liquid-wash and soap.
 
+  - title: Operations Intern
+    company: British American Tobacco Nigeria
+    company_url: 'https://www.americanexpress.com/en-in/'
+    company_logo: org-amex
+    location: Ibadan, Nigeria
+    date_start: '2017-06-12'
+    date_end: '2017-12-12'
+    description: |2-
+    
+        * Utilized lean manufacturing principles to optimize production processes and identify areas for improvement, achieving a 5% increase in production efficiency. 
+        * Implemented targeted process changes that reduced production costs by 10% and enhanced product quality by 4%, contributing to more streamlined operations and waste reduction.
+
 design:
   columns: '2'
 ---
