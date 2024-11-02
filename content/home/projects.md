@@ -10,7 +10,7 @@ headless: true
 active: false
 
 # Order that this section appears on the page.
-weight: 65
+weight: 60
 
 title: Projects
 subtitle: 'Some of the things I have built in the past'
