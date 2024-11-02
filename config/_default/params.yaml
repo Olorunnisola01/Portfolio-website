@@ -14,24 +14,26 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: 'American Express'
+org_name: 'FUTA'
 description: ''
-twitter: 'prakharrathi14'
+twitter: 'olorunnisola100'
 
 # Contact (edit or remove options as required)
 
-email: adelekeoo@futa.edu.ng
-# phone: 888 888 88 88
+email: olorunnisola01@gmail.com
+phone: +2348143879386
 address:
-  # street: 450 Serra Mall
+  street: Federal University Of Technology,
   city: Akure
   region: Ondo
-  postcode: '230282'
+  postcode: '340252'
   country: Nigeria
   country_code: NG
-# coordinates:
-  # latitude: '37.4275'
-  # longitude: '-122.1697'
+
+coordinates:
+  latitude: '7.3070'
+  longitude: '5.1398'
+
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
   # - 'Monday 10:00 to 13:00'
@@ -40,7 +42,7 @@ address:
 contact_links:
   - icon: linkedin
     icon_pack: fab
-    name: DM Me
+    name: Let's connect on LinkedIn
     link: 'https://linkedin.com/in/adeleke-olorunnisola-o-46a3b3150'
   # - icon: keybase
   #   icon_pack: fab
