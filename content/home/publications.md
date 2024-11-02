@@ -9,7 +9,7 @@ exclude_featured: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 95
+weight: 65
 
 title: Recent Publications
 subtitle: ''
