@@ -13,7 +13,7 @@ headless: true
 weight: 60
 
 title: Projects
-subtitle: 'Some of the things I have built in the past'
+# subtitle: 'Some of the things I have built in the past'
 
 content:
   # Page type to display. E.g. project.
