@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 85
 
 title: Recent Posts
 subtitle: I like to write about data science, machine learning and finance. I document personal experiences and projects. I write for organizations like **Towards Data Science**, **The Startup**, **Level up Coding** and **Analytics Vidhya**. My main goal is to break down technical content for non-technical audiences. 

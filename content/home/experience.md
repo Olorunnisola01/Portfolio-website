@@ -62,7 +62,7 @@ experience:
     description: |2-
     
         * Utilized lean manufacturing principles to optimize production processes and identify areas for improvement, achieving increase in production efficiency. 
-        * Implemented targeted process changes that reduced production costs by 10% and enhanced product quality, contributing to more streamlined operations and waste reduction.
+        * Implemented targeted process changes that reduced production costs and enhanced product quality, contributing to more streamlined operations and waste reduction.
 
 design:
   columns: '2'
