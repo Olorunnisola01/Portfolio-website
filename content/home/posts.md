@@ -6,8 +6,11 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
+# Make this page disappear from home page 
+active: false
+
 # Order that this section appears on the page.
-weight: 85
+weight: 80
 
 title: Recent Posts
 subtitle: I like to write about data science, machine learning and finance. I document personal experiences and projects. I write for organizations like **Towards Data Science**, **The Startup**, **Level up Coding** and **Analytics Vidhya**. My main goal is to break down technical content for non-technical audiences. 
