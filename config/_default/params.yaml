@@ -20,15 +20,15 @@ twitter: 'prakharrathi14'
 
 # Contact (edit or remove options as required)
 
-email: pr440@snu.edu.in
+email: adelekeoo@futa.edu.ng
 # phone: 888 888 88 88
 address:
   # street: 450 Serra Mall
-  city: Gurugram
-  region: Haryana
-  postcode: '122006'
-  country: India
-  country_code: IN
+  city: Akure
+  region: Ondo
+  postcode: '230282'
+  country: Nigeria
+  country_code: NG
 # coordinates:
   # latitude: '37.4275'
   # longitude: '-122.1697'
@@ -41,7 +41,7 @@ contact_links:
   - icon: linkedin
     icon_pack: fab
     name: DM Me
-    link: 'https://www.linkedin.com/in/prakhar-rathi/'
+    link: 'https://linkedin.com/in/adeleke-olorunnisola-o-46a3b3150'
   # - icon: keybase
   #   icon_pack: fab
   #   name: Chat on Keybase
