@@ -52,7 +52,7 @@ links:
 - name: Paper
   url: https://zenodo.org/record/5562660
 
-url_pdf: 'static/uploads/resume.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
