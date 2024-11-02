@@ -1,4 +1,7 @@
 ---
+# This file represents a page section.
+headless: true
+
 title: Artificial Intelligence for Trading
 summary: Projects that I completed for the Udacity AI for Trading Nanodegree. Learnt the basics of quantitative analysis, including data processing, trading signal generation, and portfolio management. Used Python to work with historical stock data, develop trading strategies, and construct a multi-factor model with optimization. Learnt how to analyze alternative data and use machine learning to generate trading signals.
 tags:
