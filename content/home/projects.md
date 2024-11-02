@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Make this page disappear from home page 
-active: false
+# active: false
 
 # Order that this section appears on the page.
 weight: 60
