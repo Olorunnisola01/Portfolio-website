@@ -52,7 +52,7 @@ links:
 - name: Paper
   url: https://zenodo.org/record/5562660
 
-url_pdf: '<a href="static/uploads/resume.pdf" class="btn"><span class="fas fa-book" aria-hidden="true"></span> Download Resume</a>'
+url_pdf: 'static/uploads/resume.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
