@@ -32,7 +32,7 @@ experience:
     description: |2-
     
         * Achieved significant improvements in detergent production efficiency, cost reduction, and product quality by conducting a thorough analysis of        production data. 
-        * Designed and implemented process changes that led to a 10% increase in overall production efficiency.
+        * Designed and implemented process changes that led to increase in overall production efficiency.
         * Supervised operators and production personnel to ensure the consistent production of high-quality detergents, liquid-wash and soap.
 
 
@@ -61,8 +61,8 @@ experience:
     date_end: '2017-12-12'
     description: |2-
     
-        * Utilized lean manufacturing principles to optimize production processes and identify areas for improvement, achieving a 5% increase in production efficiency. 
-        * Implemented targeted process changes that reduced production costs by 10% and enhanced product quality by 4%, contributing to more streamlined operations and waste reduction.
+        * Utilized lean manufacturing principles to optimize production processes and identify areas for improvement, achieving increase in production efficiency. 
+        * Implemented targeted process changes that reduced production costs by 10% and enhanced product quality, contributing to more streamlined operations and waste reduction.
 
 design:
   columns: '2'
