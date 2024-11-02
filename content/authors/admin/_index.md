@@ -25,7 +25,7 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
+  #courses:
 #   - course: MSc, Financial Engineering
 #     institution: WorldQuant University
 #     year: 2022-Present
