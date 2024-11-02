@@ -3,13 +3,16 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-exclude_featured: true
+exclude_featured: false
+
+# Make this page disappear from home page 
+active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 95
 
 title: Recent Publications
 subtitle: ''
