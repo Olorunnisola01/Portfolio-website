@@ -18,10 +18,12 @@ bio: Olorunnisola is a mechanical engineering student driven by a passion for in
 
 # Interests to show in About widget
 interests:
-  - 📚 Robotics
-  - 📚 Smart manufacturing
-  - 📚 Machine/Deep learning
-  - 📚 Data engineering
+  - icon: "icons/interest"  # Adjust path as needed based on your theme's structure
+    icon_pack: custom
+    name: "Robotics"
+  - icon: "icons/interest"
+    icon_pack: custom
+    name: "Smart Manufacturing"
 
 # Education to show in About widget
 education:
