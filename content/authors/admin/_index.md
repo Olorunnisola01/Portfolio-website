@@ -20,10 +20,10 @@ bio: Olorunnisola is a mechanical engineering student driven by a passion for in
 ## Interests
 interests:
 
-- <img src="/assets/icons/book.svg" width="16" height="16" /> Robotics
-- <img src="/assets/icons/book.svg" width="16" height="16" /> Smart Manufacturing
-- <img src="/assets/icons/book.svg" width="16" height="16" /> Machine/Deep Learning
-- <img src="/assets/icons/book.svg" width="16" height="16" /> Data Engineering
+- <img src="/assets/media/icons/interest/book.svg" width="16" height="16" /> Robotics
+- <img src="/assets/media/icons/interest/book.svg" width="16" height="16" /> Smart Manufacturing
+- <img src="/ssets/media/icons/interest/book.svg width="16" height="16" /> Machine/Deep Learning
+- <img src="/assets/media/icons/interest/book.svg" width="16" height="16" /> Data Engineering
 
 
 # Education to show in About widget
