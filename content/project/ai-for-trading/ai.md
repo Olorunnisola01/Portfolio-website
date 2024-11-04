@@ -17,10 +17,25 @@ links:
 - name: Course Page
   url: https://www.udacity.com/course/ai-for-trading--nd880
 
-url_code: "https://github.com/prakharrathi25/artificial-intelligence-for-trading"
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
+# Links to additional resources (like code, demo videos, etc.)
+links:
+  - icon: "code"
+    icon_pack: "fas"  # Font Awesome solid icons
+    name: "Code"
+    url: "https://github.com/prakharrathi25/artificial-intelligence-for-trading"
+  - icon: "video"
+    icon_pack: "fas"  # Font Awesome solid icons
+    name: "Demo Videos"
+    url: "https://youtube.com/your-demo-videos"
+  - icon: "file-powerpoint"
+    icon_pack: "fas"  # Font Awesome solid icons
+    name: "Slides"
+    url: "https://slides.com/your-slides"
+  - icon: "file-alt"
+    icon_pack: "fas"  # Font Awesome solid icons
+    name: "Report"
+    url: "https://example.com/your-report"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
