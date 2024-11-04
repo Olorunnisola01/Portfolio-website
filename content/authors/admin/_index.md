@@ -17,11 +17,14 @@ organizations:
 bio: Olorunnisola is a mechanical engineering student driven by a passion for innovation and problem-solving. Currently focusing on robotics, he explores cutting-edge technologies including computer vision and deep learning to create transformative solutions.
 
 # Interests to show in About widget
+## Interests
 interests:
-  - name: "Robotics"
-  - name: "Smart manufacturing"
-  - name: "Machine/Deep learning"
-  - name: "Data engineering"
+
+- <img src="/assets/icons/book.svg" width="16" height="16" /> Robotics
+- <img src="/assets/icons/book.svg" width="16" height="16" /> Smart Manufacturing
+- <img src="/assets/icons/book.svg" width="16" height="16" /> Machine/Deep Learning
+- <img src="/assets/icons/book.svg" width="16" height="16" /> Data Engineering
+
 
 # Education to show in About widget
 education:
