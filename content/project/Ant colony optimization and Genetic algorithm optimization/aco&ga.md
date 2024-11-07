@@ -15,6 +15,9 @@ external_link: "/projects/related-project/"
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://github.com/prakharrathi25/artificial-intelligence-for-trading"
 
+image: "featured.jpg"
+
+
 # Addtional links
 links:
 - name: Certificate
