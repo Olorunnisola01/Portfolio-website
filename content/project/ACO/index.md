@@ -9,7 +9,7 @@ tags:
 date: "2024-06-15T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
-external_link: "project/ACO/full_aco_details.md"
+external_link: "project/ACO/full/"
 
 
 # Optional external URL for project (replaces project detail page).
