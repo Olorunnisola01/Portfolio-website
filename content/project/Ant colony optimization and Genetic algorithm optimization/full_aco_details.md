@@ -6,25 +6,6 @@ tags:
 - Optimization
 - Control systems
 - Robotics
-date: "2024-06-15T00:00:00Z"
-
-# # Internal link to another page within the Hugo site
-external_link: "full_aco_details.md"
-
-
-# Optional external URL for project (replaces project detail page).
-# external_link: "https://github.com/prakharrathi25/artificial-intelligence-for-trading"
-
-
-
-
-# Addtional links
-links:
-- name: Certificate
-  url: https://www.linkedin.com/in/prakhar-rathi/detail/treasury/education:660018129/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A%28ACoAACWlVAUBbtb8d-IvA14hb9AbWP2Uc4dhO18%2C1591341724813%29&section=education%3A660018129&treasuryCount=1
-- name: Course Page
-  url: https://www.udacity.com/course/ai-for-trading--nd880
-
 
 # Links to additional resources (like code, demo videos, etc.)
 links:
