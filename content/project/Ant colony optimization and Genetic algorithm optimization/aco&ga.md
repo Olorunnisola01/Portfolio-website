@@ -9,13 +9,13 @@ tags:
 date: "2024-06-15T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
-# external_link: "/projects/related-project/"
+external_link: "/projects/related-project/"
 
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://github.com/prakharrathi25/artificial-intelligence-for-trading"
 
-image: "featured.jpg"
+# image: "featured.jpg"
 
 
 # Addtional links
