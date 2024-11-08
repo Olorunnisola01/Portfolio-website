@@ -1,5 +1,5 @@
 ---
-title: "Optimization of Quadcopter PID controller gains using Genetic Algorithm and Ant Colony Optimization Algorithm"
+title: "Optimization of Quadcopter PID controller gains using using Nature-inspired Algorithms"
 authors: 
 - "Adeleke Olorunnisola Oyeyemi, Olurotimi Dahunsi"
 
