@@ -26,10 +26,10 @@ links:
 #     icon_pack: "fas"  # Font Awesome solid icons
 #     name: "Code"
 #     url: "https://github.com/prakharrathi25/artificial-intelligence-for-trading"
-#   - icon: "video"
-#     icon_pack: "fas"  # Font Awesome solid icons
-#     name: "Demo Videos"
-#     url: "https://youtube.com/your-demo-videos"
+  - icon: "video"
+    icon_pack: "fas"  # Font Awesome solid icons
+    name: "Demo Videos"
+    url: "https://drive.google.com/file/d/1E5r5m59TFC4LmfLXf8Gh0l05ZjntU4Tj/view?usp=sharing"
   - icon: "file-powerpoint"
     icon_pack: "fas"  # Font Awesome solid icons
     name: "Slides"
