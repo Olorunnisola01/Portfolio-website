@@ -15,12 +15,10 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
-    formspree:
-      id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
@@ -28,3 +26,15 @@ content:
 design:
   columns: '2'
 ---
+
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
