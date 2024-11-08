@@ -27,7 +27,7 @@ design:
   columns: '2'
 ---
 
-  <form name="contact" netlify style="max-width: 600px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
+<form name="contact" netlify style="max-width: 600px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
   <h2 style="text-align: center;">Contact Us</h2>
   
   <p>
@@ -50,10 +50,3 @@ design:
   </p>
 </form>
 
-<script>
-  document.querySelector('form[name="contact"]').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent default form submission
-    alert("Your message has been sent! Thank you for contacting us.");
-    this.submit(); // Then submit the form
-  });
-</script>
