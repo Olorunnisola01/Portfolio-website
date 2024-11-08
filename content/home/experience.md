@@ -39,7 +39,7 @@ experience:
   - title: Engineering Intern
     company: Henkel
     company_url: 'https://www.americanexpress.com/en-in/'
-    company_logo: org-amex
+    company_logo: henkel-logo
     location: Ibadan, Nigeria
     date_start: '2019-04-10'
     date_end: '2019-12-18'
@@ -56,7 +56,7 @@ experience:
   - title: Operations Intern
     company: British American Tobacco Nigeria
     company_url: 'https://www.americanexpress.com/en-in/'
-    company_logo: org-amex
+    company_logo: bat
     location: Ibadan, Nigeria
     date_start: '2017-06-12'
     date_end: '2017-12-12'
