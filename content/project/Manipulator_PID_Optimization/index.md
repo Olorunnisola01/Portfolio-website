@@ -28,11 +28,11 @@ links:
 #     url: "https://github.com/prakharrathi25/artificial-intelligence-for-trading"
   - icon: "video"
     icon_pack: "fas"  # Font Awesome solid icons
-    name: "Demo Videos"
+    name: "Demo Video"
     url: "https://drive.google.com/file/d/1E5r5m59TFC4LmfLXf8Gh0l05ZjntU4Tj/view?usp=sharing"
   - icon: "file-powerpoint"
     icon_pack: "fas"  # Font Awesome solid icons
-    name: "Slides"
+    name: "Slide"
     url: "https://docs.google.com/presentation/d/1mNNV45HiQF2pO4W0JiaSBDtBOCeQccra/edit#slide=id.p1"
   - icon: "file-alt"
     icon_pack: "fas"  # Font Awesome solid icons
