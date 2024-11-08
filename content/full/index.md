@@ -1,5 +1,5 @@
 ---
-title: "Optimization of Quadcopter PID controller gains using using Nature-inspired Algorithms"
+title: "Optimization of Quadcopter PID controller gains using Nature-inspired Algorithms"
 authors: 
 - "Adeleke Olorunnisola Oyeyemi, Olurotimi Dahunsi"
 
