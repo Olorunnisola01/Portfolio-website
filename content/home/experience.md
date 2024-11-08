@@ -25,7 +25,7 @@ experience:
   - title: Process Engineer
     company: Extreme Manufacturing Nigeria Limited
     company_url: 'https://www.americanexpress.com/en-in/'
-    company_logo: emnl-logo
+    company_logo: emnl-logo.png
     location: Ibadan, Nigeria
     date_start: '2022-01-04'
     date_end: '2022-12-10'
