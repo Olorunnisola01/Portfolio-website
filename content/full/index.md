@@ -1,6 +1,6 @@
 ---
-# title: "Optimization of Quadcopter PID controller gains using Nature-inspired Algorithms"
-# subtitle: "Enhancing Quadcopter Precision with Intelligent PID Tuning"
+title: "Optimization of Quadcopter PID controller gains using Nature-inspired Algorithms"
+subtitle: "Enhancing Quadcopter Precision with Intelligent PID Tuning"
 
 
 authors: 
