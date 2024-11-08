@@ -28,7 +28,7 @@ design:
 ---
 
 <form name="contact" netlify style="max-width: 900px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
-  <h2 style="text-align: center;">Contact Us</h2>
+  <h2 style="text-align: center;">Drop a message</h2>
   
   <p>
     <label style="font-weight: bold;">Name:</label>
