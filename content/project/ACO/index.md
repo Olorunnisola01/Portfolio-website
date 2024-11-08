@@ -55,5 +55,5 @@ slides: ""
 
 <div style="text-align: right;">
     <h1>Optimization of Quadcopter PID Controller Gains Using Nature-inspired Algorithms</h1>
-    <h2>Enhancing Quadcopter Precision with Intelligent PID Tuning</h2>
+    <h3>Enhancing Quadcopter Precision with Intelligent PID Tuning</h3>
 </div>
