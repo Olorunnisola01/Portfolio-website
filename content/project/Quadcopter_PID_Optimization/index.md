@@ -2,6 +2,9 @@
 title: Optimization of Quadcopter PID controller gains using Genetic Algorithm and Ant Colony Optimization Algorithm
 summary: "Enhancing Quadcopter Precision with Intelligent PID Tuning"
 
+authors: 
+- "Adeleke Olorunnisola Oyeyemi, Olurotimi Dahunsi"
+
 tags:
 - Optimization
 - Control systems
@@ -9,7 +12,7 @@ tags:
 date: "2024-06-15T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
-external_link: "allprojects/full/"
+external_link: "Quadcopter_PID_Optimization/"
 
 
 # Optional external URL for project (replaces project detail page).
@@ -52,3 +55,5 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+This project highlights a comparative analysis of Proportional Integral Derivative (PID) controllers, commonly used in robotics due to their simplicity and effectiveness. However, traditional manual tuning methods often fall short in delivering optimal performance for specific tasks. To address this, I implemented computational intelligence by using two meta-heuristic algorithms, Genetic Algorithm (GA) and Ant Colony Optimization (ACO), for tuning PID gains. Through simulation in MATLAB 2023a, I explored how these algorithms enhance PID controller performance specifically for quadcopter control. This study not only demonstrates the efficacy of GA and ACO in PID tuning but also offers valuable insights into their applications in autonomous control systems. The documented results and insights contribute to a deeper understanding of how these algorithms support precision in robotic applications.

@@ -9,7 +9,7 @@ tags:
 date: "2024-06-15T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
-external_link: "allprojects/Meta-heuristic/"
+external_link: "project/manipulator_pid_optimization/"
 
 
 # Optional external URL for project (replaces project detail page).
