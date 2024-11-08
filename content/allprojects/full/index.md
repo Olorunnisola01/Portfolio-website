@@ -10,7 +10,7 @@ date: "2024-06-15"
 
 tags:
 - Optimization
-- Control systems
+- Control Theory
 - Robotics
 
 # Links to additional resources (like code, demo videos, etc.)
