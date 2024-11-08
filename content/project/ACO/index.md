@@ -18,13 +18,6 @@ external_link: "full/"
 
 
 
-# Addtional links
-links:
-- name: Certificate
-  url: https://www.linkedin.com/in/prakhar-rathi/detail/treasury/education:660018129/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A%28ACoAACWlVAUBbtb8d-IvA14hb9AbWP2Uc4dhO18%2C1591341724813%29&section=education%3A660018129&treasuryCount=1
-- name: Course Page
-  url: https://www.udacity.com/course/ai-for-trading--nd880
-
 
 # Links to additional resources (like code, demo videos, etc.)
 links:
@@ -53,7 +46,22 @@ links:
 slides: ""
 ---
 
-<div style="text-align: right;">
-    <h1>Optimization of Quadcopter PID Controller Gains Using Nature-inspired Algorithms</h1>
-    <h3>Enhancing Quadcopter Precision with Intelligent PID Tuning</h3>
+<style>
+.text-right {
+    text-align: right;
+}
+.title {
+    font-size: 2em; /* Adjust size as needed */
+    margin: 0;
+}
+.subtitle {
+    font-size: 1.5em; /* Adjust size as needed */
+    margin: 0;
+    color: #555; /* Optional: adjust color */
+}
+</style>
+
+<div class="text-right">
+    <h1 class="title">Optimization of Quadcopter PID Controller Gains Using Nature-inspired Algorithms</h1>
+    <h3 class="subtitle">Enhancing Quadcopter Precision with Intelligent PID Tuning</h3>
 </div>
