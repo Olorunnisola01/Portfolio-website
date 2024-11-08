@@ -17,22 +17,28 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    netlify:
+  #form:
+    #provider: netlify
+    #netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
-  
+     # captcha: true
+
 design:
   columns: '2'
 ---
 
 <form name="contact" netlify>
+  <!-- Honeypot field for spam prevention -->
+  <input type="hidden" name="bot-field" />
+
   <p>
-    <label>Name <input type="text" name="name" /></label>
+    <label>Name <input type="text" name="name" required /></label>
   </p>
   <p>
-    <label>Email <input type="email" name="email" /></label>
+    <label>Email <input type="email" name="email" required /></label>
+  </p>
+  <p>
+    <label>Message <textarea name="message" rows="4" required></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
