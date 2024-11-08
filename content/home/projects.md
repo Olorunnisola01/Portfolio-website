@@ -30,17 +30,22 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning not
+  - name: Optimization
+    tag: Optimization
+  - name: Control Theory
+    tag: Control Theory
+  - name: Deep Learning
     tag: Deep Learning
-  - name: Natural Language Processing
-    tag: nlp
-  - name: Data Science
-    tag: Data Science
-  - name: Tools and Applications
-    tag: apps
-  - name: Open Source
-    tag: open-source
+  - name: Robotics and Automation
+    tag: Robotics
+  - name: Computer vision
+    tag: Computer vision
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Smart Manufacturing
+    tag: Smart Manufacturing
 
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
