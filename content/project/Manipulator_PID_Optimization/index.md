@@ -2,6 +2,9 @@
 title: Meta-heuristic Optimization Algorithms based PID Controller Design for a 5-DOF Robotic Manipulator
 summary: "Intelligent PID Tuning for Robotic Manipulator"
 
+authors: 
+- "Adeleke Olorunnisola Oyeyemi, Olurotimi Dahunsi"
+
 tags:
 - Optimization
 - Control Theory
