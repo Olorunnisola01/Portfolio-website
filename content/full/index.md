@@ -1,9 +1,5 @@
 ---
 title: Optimizing Quadcopter PID Gains with GA and ACO
-authors: ["Your Name"]  # Replace "Your Name" with your actual name
-date: "2024-06-15"
-
-
 
 
 tags:
