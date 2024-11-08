@@ -1,6 +1,6 @@
 ---
-title: Optimization of Quadcopter PID controller gains using Genetic Algorithm and Ant Colony Optimization Algorithm
-summary: "Enhancing Quadcopter Precision with Intelligent PID Tuning"
+title: Meta-Heuristic Optimization Algorithms Based PID Controller Design For A 5-DOF Robotic Manipulator
+summary: "Smart Control for Precision in Robotic Manipulators"
 
 authors: 
 - "Adeleke Olorunnisola Oyeyemi, Olurotimi Dahunsi"
@@ -12,7 +12,7 @@ tags:
 date: "2024-06-15T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
-internal_link: "project/Quadcopter_PID_Optimization/"
+internal_link: "project/Manipulator_PID_Optimization/"
 
 
 # Optional external URL for project (replaces project detail page).
@@ -26,18 +26,18 @@ links:
 #     icon_pack: "fas"  # Font Awesome solid icons
 #     name: "Code"
 #     url: "https://github.com/prakharrathi25/artificial-intelligence-for-trading"
-#   - icon: "video"
-#     icon_pack: "fas"  # Font Awesome solid icons
-#     name: "Demo Videos"
-#     url: "https://youtube.com/your-demo-videos"
-#   - icon: "file-powerpoint"
-#     icon_pack: "fas"  # Font Awesome solid icons
-#     name: "Slides"
-#     url: "https://slides.com/your-slides"
-  - icon: "file-alt"
-    icon_pack: "fas"  # Font Awesome solid icons
-    name: "Report"
-    url: "https://drive.google.com/file/d/1WYy4JNpXzF3cvyH0-c5bIF7nkeKNZ9zF/view?usp=sharing"
+    - icon: "video"
+      icon_pack: "fas"  # Font Awesome solid icons
+      name: "Demo Video"
+      url: "https://drive.google.com/file/d/1E5r5m59TFC4LmfLXf8Gh0l05ZjntU4Tj/view?usp=sharing"
+    - icon: "file-powerpoint"
+      icon_pack: "fas"  # Font Awesome solid icons
+      name: "Slide"
+      url: "https://docs.google.com/presentation/d/1mNNV45HiQF2pO4W0JiaSBDtBOCeQccra/edit?usp=sharing&ouid=109917310000887207564&rtpof=true&sd=true"
+    - icon: "file-alt"
+      icon_pack: "fas"  # Font Awesome solid icons
+      name: "Report"
+      url: "https://drive.google.com/file/d/1mpWC0FfftLG1vrRwk7cRNyktjSL1tZR9/view?usp=sharing"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
