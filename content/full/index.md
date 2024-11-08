@@ -1,7 +1,6 @@
 ---
 title: "Optimization of Quadcopter PID controller gains using Genetic Algorithm and Ant Colony Optimization Algorithm"
-authors: 
-- name: "Adeleke Olorunnisola" # Replace "Your Name" with your actual name
+authors: ["Adeleke Olorunnisola"]  # Replace "Your Name" with your actual name
 date: "2024-06-15"
 
 
