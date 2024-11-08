@@ -1,14 +1,14 @@
 ---
-title: Meta-heuristic Optimization Algorithms based PID Controller Design for a 5-DOF Robotic Manipulator
-summary: "Intelligent PID Tuning for Robotic Manipulator"
+title: Design of an Office Ergonomic Table
+summary: "Anthropometric-centered ergonomic design"
 
 authors: 
-- "Adeleke Olorunnisola Oyeyemi, Olurotimi Dahunsi"
+- "CAD Design by: Adeleke Olorunnisola Oyeyemi"
 
 tags:
-- Optimization
-- Control Theory
-- Robotics
+- Smart manufacturing
+
+
 date: "2024-06-15T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
@@ -29,15 +29,12 @@ links:
   - icon: "video"
     icon_pack: "fas"  # Font Awesome solid icons
     name: "Demo Video"
-    url: "https://drive.google.com/file/d/1E5r5m59TFC4LmfLXf8Gh0l05ZjntU4Tj/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1H5DILHyeV8DFCxU_QoV2IarFtgac8dah/view?usp=sharing"
   - icon: "file-powerpoint"
     icon_pack: "fas"  # Font Awesome solid icons
     name: "Slide"
-    url: "https://docs.google.com/presentation/d/1mNNV45HiQF2pO4W0JiaSBDtBOCeQccra/edit#slide=id.p1"
-  - icon: "file-alt"
-    icon_pack: "fas"  # Font Awesome solid icons
-    name: "Report"
-    url: "https://drive.google.com/file/d/18wRNrEI9mZ4ssbjswbRaL9takKJXozxU/view"
+    url: "https://drive.google.com/file/d/17r1Ci6K0i8AY4nift4W07t4hComW9VJc/view?usp=sharing"
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
