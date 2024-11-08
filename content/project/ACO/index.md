@@ -1,6 +1,6 @@
 ---
-#title: Optimization of Quadcopter PID controller gains using Genetic Algorithm and Ant Colony Optimization Algorithm
-#subtitle: "Enhancing Quadcopter Precision with Intelligent PID Tuning"
+title: Optimization of Quadcopter PID controller gains using Genetic Algorithm and Ant Colony Optimization Algorithm
+subtitle: "Enhancing Quadcopter Precision with Intelligent PID Tuning"
 
 tags:
 - Optimization
@@ -55,5 +55,5 @@ slides: ""
 
 <div style="text-align: right;">
     <h1>Optimization of Quadcopter PID Controller Gains Using Nature-inspired Algorithms</h1>
-    <h3>Enhancing Quadcopter Precision with Intelligent PID Tuning</h3>
+    <h2>Enhancing Quadcopter Precision with Intelligent PID Tuning</h2>
 </div>
