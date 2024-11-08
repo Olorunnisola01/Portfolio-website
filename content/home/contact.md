@@ -42,10 +42,18 @@ design:
   
   <p>
     <label style="font-weight: bold;">Message:</label>
-    <textarea name="message" rows="6" required style="width: 100%; padding: 10px; margin: 5px 0; border-radius: 4px; border: 1px solid #ccc;"></textarea>
+    <textarea name="message" rows="8" required style="width: 100%; padding: 10px; margin: 5px 0; border-radius: 4px; border: 1px solid #ccc;"></textarea>
   </p>
   
   <p style="text-align: center;">
     <button type="submit" style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Send</button>
   </p>
 </form>
+
+<script>
+  document.querySelector('form[name="contact"]').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent default form submission
+    alert("Your message has been sent! Thank you for contacting us.");
+    this.submit(); // Then submit the form
+  });
+</script>
