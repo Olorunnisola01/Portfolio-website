@@ -9,8 +9,10 @@ theme: minimal
 day_night: true
 font: 'Minimal'
 font_size: L
-defaultTheme: light  # Try adding this line
 
+appearance:
+  mode: light
+  color: blue
 
 # SEO
 
