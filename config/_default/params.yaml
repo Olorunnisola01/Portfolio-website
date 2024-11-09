@@ -6,13 +6,12 @@
 # Appearance
 
 theme: minimal
-day_night: true
+#day_night: true
+day_night: false
+theme_mode: light
 font: 'Minimal'
 font_size: L
 
-appearance:
-  mode: light
-  color: blue
 
 # SEO
 
