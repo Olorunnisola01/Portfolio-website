@@ -53,10 +53,10 @@ Anthropometrics, the study of human body measurements, plays a pivotal role in c
 
 #### Key Features and Technical Specifications
 
-    1) Adjustable Height and Angles: Our office table is engineered with flexibility in mind. By allowing users to adjust the table height and surface angle, we enable postural versatility, reducing strain on muscles and joints.
-    2) Enhanced Leg Clearance and Knee Room: Derived from precise anthropometric calculations, our design ensures ample space for leg movement and comfort, accommodating various seating preferences.
-    3) Optimized Work Surface Depth: The table’s depth is tailored to promote a natural arm extension range, reducing the need to overreach and maintaining a healthy shoulder posture.
-    4) Durability and Sustainability: Built from high-quality materials, our table balances ergonomics with sustainability, offering long-lasting durability without compromising environmental considerations.
+  1) Adjustable Height and Angles: Our office table is engineered with flexibility in mind. By allowing users to adjust the table height and surface angle, we enable postural versatility, reducing strain on muscles and joints.
+  2) Enhanced Leg Clearance and Knee Room: Derived from precise anthropometric calculations, our design ensures ample space for leg movement and comfort, accommodating various seating preferences.
+  3) Optimized Work Surface Depth: The table’s depth is tailored to promote a natural arm extension range, reducing the need to overreach and maintaining a healthy shoulder posture.
+  4) Durability and Sustainability: Built from high-quality materials, our table balances ergonomics with sustainability, offering long-lasting durability      without compromising environmental considerations.
 
 #### Why Ergonomics Matter in Today’s Work Environment
 
