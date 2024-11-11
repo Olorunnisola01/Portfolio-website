@@ -47,8 +47,6 @@ slides: ""
 
 At the core of our ergonomic office table design lies a commitment to fostering comfort, productivity, and wellness for users. By incorporating anthropometric data, we’ve engineered a workspace solution that aligns with human physical dimensions, enhancing both functionality and comfort. This approach ensures that our design is not just stylish, but also grounded in precise, user-focused metrics to promote optimal postural health and reduce fatigue during prolonged use.
 
-![Rendered Image of Ergonomic Table](View1.jpg)
-
 #### Understanding Anthropometrics: A Human-Centered Approach
 
 Anthropometrics, the study of human body measurements, plays a pivotal role in creating ergonomic products that fit naturally with the body’s movements and dimensions. For this design, extensive research was conducted to assess various anthropometric data points, such as seated elbow height, reach distance, and leg clearance, ensuring our office table can accommodate a wide range of body types and heights. These measurements influence the table’s height, width, depth, and tilt options, providing users with a customizable, adaptable workspace that meets diverse ergonomic needs.
