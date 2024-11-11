@@ -43,7 +43,6 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-### Ergonomic Office Table Design – Tailored for Comfort and Efficiency
 #### Innovative Design Rooted in Anthropometric Precision
 
 At the core of our ergonomic office table design lies a commitment to fostering comfort, productivity, and wellness for users. By incorporating anthropometric data, we’ve engineered a workspace solution that aligns with human physical dimensions, enhancing both functionality and comfort. This approach ensures that our design is not just stylish, but also grounded in precise, user-focused metrics to promote optimal postural health and reduce fatigue during prolonged use.
