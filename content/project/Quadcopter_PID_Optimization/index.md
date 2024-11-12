@@ -3,7 +3,7 @@ title: Optimization of Quadcopter PID controller gains using Genetic Algorithm a
 summary: "Enhancing Quadcopter Precision with Intelligent PID Tuning"
 
 authors: 
-- "Adeleke Olorunnisola Oyeyemi, Olurotimi Dahunsi"
+- "Adeleke Olorunnisola Oyeyemi"
 
 tags:
 - Optimization
