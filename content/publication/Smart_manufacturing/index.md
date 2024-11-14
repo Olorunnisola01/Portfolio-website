@@ -48,7 +48,7 @@ links:
       name: "Report"
       url: "https://ijsrset.com/home/issue/view/article.php?id=IJSRSET231052"
     - icon: "link"
-      icon_pack: "fab"
+      icon_pack: "fas"
       name: "DOI"
       url: "https://doi.org//10.32628/IJSRSET231052"
 
