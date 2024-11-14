@@ -6,7 +6,7 @@ widget: pages
 exclude_featured: false
 
 # Make this page disappear from home page 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
