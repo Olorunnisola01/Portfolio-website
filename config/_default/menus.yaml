@@ -16,8 +16,8 @@ main:
 # - name: Blog
 #    url: '#posts'
 #    weight: 50
-  - name: Publications
-    url: '#publications'
+  - name: Publication
+    url: '#publication'
     weight: 55
 #  - name: Achievements
 #    url: '#achievements'
