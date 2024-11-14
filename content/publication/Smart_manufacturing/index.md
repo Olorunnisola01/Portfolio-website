@@ -16,7 +16,7 @@ author_notes:
 - "Second Author"
 
 date: "2023-11-01T00:00:00Z"
-doi: "https://doi.org//10.32628/IJSRSET231052"
+doi: "10.32628/IJSRSET231052"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -47,8 +47,11 @@ links:
       icon_pack: "fas"  # Font Awesome solid icons
       name: "Report"
       url: "https://ijsrset.com/home/issue/view/article.php?id=IJSRSET231052"
+    - icon: "link"
+      icon_pack: "fab"
+      name: "DOI"
+      url: "https://doi.org//10.32628/IJSRSET231052"
 
-      
 # Custom links (uncomment lines below)
 
 
