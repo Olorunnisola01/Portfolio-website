@@ -41,7 +41,7 @@ featured: false
 links:
     - icon: "file-alt"
       icon_pack: "fas"  # Font Awesome solid icons
-      name: "Report"
+      name: "Paper"
       url: "https://publisher.resbee.org/jcmps/archive/v7i3/a3/p3.pdf"
     - icon: "link"
       icon_pack: "fas"

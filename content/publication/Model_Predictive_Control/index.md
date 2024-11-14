@@ -43,16 +43,13 @@ links:
     - icon: "file-alt"
       icon_pack: "fas"  # Font Awesome solid icons
       name: "Paper"
-      url: "https://ijsrset.com/paper/9384.pdf"
-    - icon: "link"
-      icon_pack: "fas"
-      name: "DOI"
-      url: "https://doi.org//10.32628/IJSRSET231052"
+      url: "https://ijaem.net/issue_dcp/Model%20Predictive%20Control%20for%20Advanced%20Path%20Tracking%20and%20Stabilization%20in%20Autonomous%20Mobile%20Robots%20Using%20Linearized%20Kinematic%20and%20Dynamic%20Models.pdf"
+
 
 # Custom links (uncomment lines below)
 
 
-# Featured image
+# Featured images
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ""
