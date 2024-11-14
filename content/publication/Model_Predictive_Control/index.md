@@ -1,12 +1,15 @@
 ---
-title: "Optimization of Quadcopter PID Controller Gains using Ant Colony Optimization and Genetic Algorithm"
+title: "Model Predictive Control for Advanced Path Tracking and Stabilization in Autonomous Mobile Robots Using Linearized Kinematic and Dynamic Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Adeleke Olorunnisola Oyeyemi
-- Olurotimi Dahunsi
+- Hamza Habib Oladayo
+- Oladunjoye Oladele Olawale
+- Ugorji Leonard Uchechukwu
+- Ofuenweuche Andrew Chidi
 
 # Author notes (optional)
 author_notes:
@@ -24,10 +27,10 @@ author_notes:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Computational Mechanics, Power System and Control*, IJSRSET 
-publication_short: In *JCMPS*
+publication: In *International Journal of Advances in Engineering and Managemen*, IJAEM
+publication_short: In *IJAEM*
 
-abstract: Proportional Integral Derivative (PID) controllers stand as the cornerstone in most robotic applications due to their inherent simplicity and practicality. However, the manual tuning of these controllers often proves to be an ineffective approach to obtaining optimal gains for specific operational requirements. Consequently, there arises a demand for computational intelligence, leveraging meta-heuristic algorithms to systematically determine the most suitable combination of gains. Among the plethora of meta-heuristic algorithms, Genetic Algorithm has gained prominence for its efficacy in intelligent problem-solving. Similarly, Ant Colony Optimization Algorithm is recognized for its effectiveness. This paper conducts a comparative analysis of the performance of PID controllers when tuned using these algorithms. The investigation involves a simulation using MATLAB 2023a, with documentation of results presented. Through this analysis, the paper aims to provide insight into how ACO and GA can be used to tune the PID controller for quadcopters. 
+abstract: This research presents a comprehensive study on the development and application of Model Predictive Control (MPC) for advanced path tracking and stabilization in autonomous mobile robots, utilizing both linearized kinematic and dynamic models. The mobile robot is modeled using a bicycle model, capturing its essential motion dynamics. These models are linearized at specific operating points to simplify control design while preserving system behavior near those points. Linear MPC controllers are designed for both the linearized kinematic and dynamic models, ensuring robust performance in two key tasks: set point stabilization and tracking a sinusoidal trajectory. The MPC effectively adjusts control inputs— velocity, steering angle, and yaw dynamics—to minimize tracking errors and achieve smooth stabilization. Results demonstrate that the proposed controllers successfully enable precise trajectory following and stabilization, providing a strong foundation for real-time navigation and control of autonomous mobile robots in dynamic environments
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -38,20 +41,12 @@ tags: []
 featured: false
 
 
-links:
-    - icon: "file-alt"
-      icon_pack: "fas"  # Font Awesome solid icons
-      name: "Paper"
-      url: "https://publisher.resbee.org/jcmps/archive/v7i3/a3/p3.pdf"
-    - icon: "link"
-      icon_pack: "fas"
-      name: "DOI"
-      url: "https://doi.org/10.46253/jcmps.v7i3.a3"
+
 
 # Custom links (uncomment lines below)
 
 
-# Featured image
+# Featured images
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ""
