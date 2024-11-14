@@ -1,13 +1,15 @@
 ---
-title: "Smart Manufacturing and its Impact on Production Processes : A Review"
+title: "Model Predictive Control for Advanced Path Tracking and Stabilization in Autonomous Mobile Robots Using Linearized Kinematic and Dynamic Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Adeleke Olorunnisola Oyeyemi
-- Awotundun Oluwagbenga Joshua 
-- Olukanri Riliwan Babatunde 
+- Hamza Habib Oladayo
+- Oladunjoye Oladele Olawale
+- Ugorji Leonard Uchechukwu
+- Ofuenweuche Andrew Chidi
 
 # Author notes (optional)
 author_notes:
@@ -25,10 +27,10 @@ author_notes:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Journal of Scientific Research in Science, Engineering and Technology*, IJSRSET 
-publication_short: In *IJSRSET*
+publication: In *International Journal of Advances in Engineering and Managemen*, IJAEM
+publication_short: In *IJAEM*
 
-abstract: This review paper aims to analyze the theoretical foundations of smart manufacturing and its impact on production processes, particularly in the domains of robotics and additive manufacturing, across past, present, and future time horizons. It also explores the potential of smart manufacturing to improve the precision of manufacturing processes, as well as the challenges it poses to the manufacturing sector. This overview will deepen our understanding of modern manufacturing practices. It's worth noting that some scientific developments and technological tools discussed here can be applied to a wider range of automated systems beyond the manufacturing sector. As such, this paper offers valuable insights for those involved in automated system design and implementation. 
+abstract: This research presents a comprehensive study on the development and application of Model Predictive Control (MPC) for advanced path tracking and stabilization in autonomous mobile robots, utilizing both linearized kinematic and dynamic models. The mobile robot is modeled using a bicycle model, capturing its essential motion dynamics. These models are linearized at specific operating points to simplify control design while preserving system behavior near those points. Linear MPC controllers are designed for both the linearized kinematic and dynamic models, ensuring robust performance in two key tasks: set point stabilization and tracking a sinusoidal trajectory. The MPC effectively adjusts control inputs— velocity, steering angle, and yaw dynamics—to minimize tracking errors and achieve smooth stabilization. Results demonstrate that the proposed controllers successfully enable precise trajectory following and stabilization, providing a strong foundation for real-time navigation and control of autonomous mobile robots in dynamic environments
 
 # Summary. An optional shortened abstract.
 summary: ""
