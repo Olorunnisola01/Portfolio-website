@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-exclude_featured: false
+exclude_featured: true
 
 # Make this page disappear from home page 
 active: true
