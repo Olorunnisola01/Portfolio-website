@@ -6,7 +6,10 @@ title: "Model Predictive Control for Advanced Path Tracking and Stabilization in
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Adeleke Olorunnisola Oyeyemi
-- et.al
+- Hamza Habib Oladayo
+- Oladunjoye Oladele Olawale
+- Ugorji Leonard Uchechukwu
+- Ofuenweuche Andrew Chidi
 
 # Author notes (optional)
 author_notes:
@@ -24,8 +27,9 @@ author_notes:
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Computational Mechanics, Power System and Control*, IJSRSET 
-publication_short: In *JCMPS*
+publication: In *International Journal of Advances in Engineering and Management*, IJAEM
+publication_short: In *IJAEM*
+
 
 abstract: This research delves into developing and applying Model Predictive Control (MPC) for advanced path tracking and stabilization in autonomous mobile robots. Using both linearized kinematic and dynamic models, the study models the mobile robot with a bicycle framework to capture essential motion dynamics. To streamline control design while retaining accurate system behavior, these models are linearized around specific operating points. 
 
@@ -42,11 +46,7 @@ links:
     - icon: "file-alt"
       icon_pack: "fas"  # Font Awesome solid icons
       name: "Paper"
-      url: "https://publisher.resbee.org/jcmps/archive/v7i3/a3/p3.pdf"
-    - icon: "link"
-      icon_pack: "fas"
-      name: "DOI"
-      url: "https://doi.org/10.46253/jcmps.v7i3.a3"
+      url: "https://ijaem.net/issue_dcp Model%20Predictive%20Control%20for%20Advanced%20Path%20Tracking%20and%20Stabilization%20in%20Autonomous%20Mobile%20Robots%20Using%20Linearized%20Kinematic%20and%20Dynamic%20Models.pdf"
 
 # Custom links (uncomment lines below)
 
