@@ -27,7 +27,7 @@ publication_types: ["2"]
 publication: In *Journal of Computational Mechanics, Power System and Control*, IJSRSET 
 publication_short: In *JCMPS*
 
-abstract: This research delves into developing and applying Model Predictive Control (MPC) for advanced path tracking and stabilization in autonomous mobile robots. Using both linearized kinematic and dynamic models, the study models the mobile robot with a bicycle framework to capture essential motion dynamics. To streamline control design while retaining accurate system behavior, these models are linearized around specific operating points. The research designs Linear MPC controllers for both model types, yielding robust performance in two primary tasks: set-point stabilization and sinusoidal trajectory tracking. By effectively adjusting control inputs—velocity, steering angle, and yaw dynamics—the MPC minimizes tracking errors and achieves smooth stabilization. Results confirm that the proposed controllers enable precise trajectory following and stabilization, supporting real-time navigation and control of autonomous mobile robots in dynamic environments. 
+abstract: This research delves into developing and applying Model Predictive Control (MPC) for advanced path tracking and stabilization in autonomous mobile robots. Using both linearized kinematic and dynamic models, the study models the mobile robot with a bicycle framework to capture essential motion dynamics. To streamline control design while retaining accurate system behavior, these models are linearized around specific operating points. 
 
 # Summary. An optional shortened abstract.
 summary: ""
