@@ -80,4 +80,4 @@ Olorunnisola is currently a student in Mechanical Engineering at the [Federal Un
 
 My interests lie at the intersection of industrial robotics, production engineering, manufacturing engineering, machine learning, and data engineering. I am constantly exploring new avenues to leverage these fields for impactful advancements in technology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resumé {{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resume {{< /staticref >}}.
