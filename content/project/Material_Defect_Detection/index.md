@@ -8,7 +8,7 @@ authors:
 tags:
 - Control systems
 - Robotics
-date: "2024-011-11T00:00:00Z"
+date: "2024-11-11T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
 internal_link: "project/Material_Defect_Detectio/"
