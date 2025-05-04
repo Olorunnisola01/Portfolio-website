@@ -11,7 +11,7 @@ tags:
 date: "2024-11-11T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
-internal_link: "project/Material_Defect_Detectio/"
+internal_link: "project/Material_Defect_Detection/"
 
 
 # Optional external URL for project (replaces project detail page).
