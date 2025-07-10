@@ -39,9 +39,9 @@ feature:
 - icon: "skills/solidworks"
   icon_pack: custom
   name: SolidWorks
-- icon: "skills/Arduino"
+- icon: "skills/lammps-logo"
   icon_pack: custom
-  name: Arduino
+  name: LAMMPS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
