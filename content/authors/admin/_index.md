@@ -14,14 +14,15 @@ organizations:
   url: https://www.futa.edu.ng/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Olorunnisola is a mechanical engineering student driven by a passion for innovation and problem-solving. Currently focusing on robotics, he explores cutting-edge technologies including computer vision and deep learning to create transformative solutions.
+bio: Olorunnisola is a mechanical engineering student driven by a passion for innovation and problem-solving. Currently focusing on materials science, where explores cutting-edge technologies including computer vision and deep learning to create transformative solutions.
 
 # Interests to show in About widget
 interests:
-  - 📚 Robotics
+  - 📚 Materials Science
   - 📚 Smart manufacturing
+  - 📚 Robotics
   - 📚 Machine/Deep learning
-  - 📚 Data engineering
+  - 📚 Data analysis
 
 # Education to show in About widget
 education:
@@ -76,8 +77,8 @@ email: "olorunnisola01@gmail.com"
 highlight_name: false
 ---
 
-Olorunnisola is currently a student in Mechanical Engineering at the [Federal University of Technology, Akure](http://www.futa.edu.ng), driven by a passion for innovation and complex problem-solving. My academic journey began with a B.Eng in Mechanical Engineering, and I’m currently advancing my expertise in robotics, focusing on technologies such as computer vision and deep learning to develop transformative solutions. 
+Olorunnisola is currently a student in Mechanical Engineering at the [Federal University of Technology, Akure](http://www.futa.edu.ng), driven by a passion for innovation and complex problem-solving. My academic journey began with a B.Eng in Mechanical Engineering, and I’m currently advancing my expertise in material science and robotics, focusing on technologies such as computer vision and deep learning to develop transformative solutions. 
 
-My interests lie at the intersection of industrial robotics, production engineering, manufacturing engineering, machine learning, and data engineering. I am constantly exploring new avenues to leverage these fields for impactful advancements in technology.
+My interests lie at the intersection of materials science, production engineering, manufacturing engineering, robotics, machine learning, and data analysis. I am constantly exploring new avenues to leverage these fields for impactful advancements in technology.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resume {{< /staticref >}}. -->
