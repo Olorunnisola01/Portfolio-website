@@ -1,5 +1,5 @@
 ---
-title:  Aluminium Uniaxial Tensile loading of Single Cryystal Aluminum
+title:  Aluminium Uniaxial Tensile loading of Single Crystal Aluminum
 summary: "Materials, Mechanical Properties, Aluminum, Tensile Loading"
 
 authors: 
