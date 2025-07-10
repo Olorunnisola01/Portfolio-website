@@ -1,6 +1,6 @@
 ---
 title:  Aluminum cohesive energy study
-summary: "Visual Odometry, Navigation, Localizing"
+summary: "Mechanical Properties, Aluminum, Cohesive Energy"
 
 authors: 
 - "Adeleke Olorunnisola Oyeyemi"
