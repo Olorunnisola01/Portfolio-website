@@ -49,4 +49,21 @@ slides: ""
 ### Problem statement
 Ensuring precise detection of surface defects in materials is crucial for maintaining quality standards. This project aims to evaluate and compare deep learning models to identify the most effective approach for defect detection, ultimately enhancing quality control processes.
 
+### Project Summary
+This project presents an automated framework for surface defect detection and classification in industrial materials using advanced deep learning techniques. Leveraging the NEU Surface Defect Dataset, which contains labeled grayscale images of six common defect types (inclusion, patches, pitted surface, rolled-in scale, scratches, and crazing), the study aims to develop a robust model that enhances the accuracy and reliability of quality control processes in manufacturing environments.
+
+The methodology involves the implementation and evaluation of several convolutional neural network (CNN) architectures, including baseline models like VGG16 and ResNet, as well as custom lightweight CNNs optimized for speed and efficiency. Key steps in the project include:
+
+    Data preprocessing and augmentation to improve model generalization
+
+    Model training and validation using supervised learning techniques
+
+    Performance evaluation using metrics such as accuracy, precision, recall, and F1-score
+
+    Confusion matrix analysis to identify misclassification patterns and model weaknesses
+
+The results demonstrate that deep learning models, particularly CNNs, can accurately detect and classify surface defects with high precision, outperforming traditional machine vision techniques. This approach not only reduces the need for manual inspection but also ensures scalable, real-time quality assurance in high-throughput production systems.
+
+This work contributes to the broader field of intelligent manufacturing and smart quality control, showcasing how AI-driven solutions can significantly enhance defect detection reliability and efficiency in materials engineering and production.
+
 ### More details of the project and results are documented in the slide
