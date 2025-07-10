@@ -1,5 +1,5 @@
 ---
-title:  A Atest Study on Visual Odometry
+title:  A Study on Visual Odometry
 summary: "Visual Odometry, Navigation, Localizing"
 
 authors: 
