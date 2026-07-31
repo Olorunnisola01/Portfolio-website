@@ -50,13 +50,20 @@ industrial applications.
 #### Case study and an honest limitation
 
 The FUTA Central Workshop's nine equipment categories are laid out as a
-line–process hybrid: machines arranged along a linear aisle for legible
-teaching flow, with same-type machines grouped on each face of the aisle for
-efficient supervision. The report is explicit about what this layout is
-*not*: it is a qualitative, closeness-rating-based design, not one validated
-against a measured from-to chart or run through a CRAFT/ALDEP exchange
-procedure. That distinction, and what it would take to close the gap, is
-discussed directly rather than glossed over.
+zoned functional layout along a central supervision aisle: a storage and
+hand-fitting zone near the entrance, general machining grouped by type, a
+partitioned CNC cell kept separate from swarf and vibration, and the
+workshop's noisiest, highest-vibration equipment placed as far from the CNC
+cell as the floor plan allows. An earlier draft of this case study described
+the layout as a line–process hybrid; that framing didn't hold up once
+checked against what a line layout actually requires (a fixed sequence of
+different operations, not multiple redundant machines of the same type), so
+the report corrects it explicitly rather than leaving the mislabel in place.
+The report is equally direct about what this layout is *not*: it is a
+qualitative, closeness-rating-based design, not one validated against a
+measured from-to chart or run through a CRAFT/ALDEP exchange procedure. That
+distinction, and what it would take to close the gap, is discussed directly
+rather than glossed over.
 
 See the [full PDF report](/uploads/workshop_layout_report.pdf) for the
 complete derivation, all figures, and the full reference list.
