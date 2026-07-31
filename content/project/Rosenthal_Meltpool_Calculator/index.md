@@ -6,6 +6,8 @@ authors:
 - "Adeleke Olorunnisola Oyeyemi"
 
 tags:
+- Materials Science
+- Smart Manufacturing
 - Additive manufacturing
 - Process modelling
 

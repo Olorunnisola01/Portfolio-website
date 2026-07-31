@@ -6,8 +6,9 @@ authors:
 - "Adeleke Olorunnisola Oyeyemi"
 
 tags:
-- Control systems
-- Robotics
+- Deep Learning
+- Computer vision
+- Materials Science
 date: "2024-011-11T00:00:00Z"
 
 # # Internal link to another page within the Hugo site

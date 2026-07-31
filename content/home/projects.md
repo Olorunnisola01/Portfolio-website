@@ -44,6 +44,8 @@ content:
     tag: Machine Learning
   - name: Smart Manufacturing
     tag: Smart Manufacturing
+  - name: Materials Science
+    tag: Materials Science
 
     
 design:

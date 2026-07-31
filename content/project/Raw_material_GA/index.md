@@ -7,7 +7,7 @@ authors:
 
 tags:
 - Optimization
-- Smart manufacturing
+- Smart Manufacturing
 
 date: "2024-06-15T00:00:00Z"
 

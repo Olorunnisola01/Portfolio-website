@@ -6,7 +6,7 @@ authors:
 - "Adeleke Olorunnisola Oyeyemi"
 
 tags:
-- Smart manufacturing
+- Smart Manufacturing
 - Robotics
 
 date: "2024-06-15T00:00:00Z"

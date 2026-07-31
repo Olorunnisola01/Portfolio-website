@@ -6,7 +6,7 @@ authors:
 - "Adeleke Olorunnisola Oyeyemi, Olurotimi Dahunsi"
 
 tags:
-- Control systems
+- Control Theory
 - Robotics
 date: "2024-06-15T00:00:00Z"
 

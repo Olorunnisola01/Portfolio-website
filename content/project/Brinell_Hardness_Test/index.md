@@ -6,7 +6,7 @@ authors:
 - "Adeleke Olorunnisola Oyeyemi"
 
 tags:
-- Materials science
+- Materials Science
 - Mechanical testing
 - Strength of materials
 

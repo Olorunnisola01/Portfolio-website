@@ -7,7 +7,7 @@ authors:
 
 tags:
 - Control Theory
-- Robotics and Automation
+- Robotics
 
 date: "2024-06-15T00:00:00Z"
 

@@ -6,6 +6,8 @@ authors:
 - "Adeleke Olorunnisola Oyeyemi"
 
 tags:
+- Smart Manufacturing
+- Optimization
 - Manufacturing systems
 - Facility planning
 - Lean manufacturing

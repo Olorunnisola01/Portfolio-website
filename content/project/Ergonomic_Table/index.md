@@ -6,7 +6,7 @@ authors:
 - "CAD Design by: Adeleke Olorunnisola Oyeyemi"
 
 tags:
-- Smart manufacturing
+- Smart Manufacturing
 
 
 date: "2024-06-15T00:00:00Z"
