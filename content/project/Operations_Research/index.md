@@ -9,7 +9,7 @@ tags:
 - Optimization
 - Operations Research
 
-date: "2026-08-01T00:00:00Z"
+date: "2026-07-31T00:00:00Z"
 
 # # Internal link to another page within the Hugo site
 internal_link: "project/Operations_Research/"
