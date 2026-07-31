@@ -6,7 +6,7 @@ title: Adeleke Olorunnisola
 superuser: true
 
 # Role/position/tagline
-role: M.Eng Student in Mechanical Engineering
+role: M.Eng Graduate in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.futa.edu.ng/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Olorunnisola is a mechanical engineering student driven by a passion for innovation and problem-solving. Currently focusing on materials science, where explores cutting-edge technologies including computer vision and deep learning to create transformative solutions.
+bio: Olorunnisola is a mechanical engineering graduate driven by a passion for innovation and problem-solving. Currently focusing on materials science, where explores cutting-edge technologies including computer vision and deep learning to create transformative solutions.
 
 # Interests to show in About widget
 interests:
@@ -77,7 +77,7 @@ email: "olorunnisola01@gmail.com"
 highlight_name: false
 ---
 
-Olorunnisola is currently a student in Mechanical Engineering at the [Federal University of Technology, Akure](http://www.futa.edu.ng), driven by a passion for innovation and complex problem-solving. My academic journey began with a B.Eng in Mechanical Engineering, and I’m currently advancing my expertise in material science and robotics, focusing on technologies such as computer vision and deep learning to develop transformative solutions. 
+Olorunnisola is M.Eng graduate in Mechanical Engineering at the [Federal University of Technology, Akure](http://www.futa.edu.ng), driven by a passion for innovation and complex problem-solving. My academic journey began with a B.Eng in Mechanical Engineering, and I’m currently advancing my expertise in material science and robotics, focusing on technologies such as computer vision and deep learning to develop transformative solutions. 
 
 My interests lie at the intersection of materials science, production engineering, manufacturing engineering, robotics, machine learning, and data analysis. I am constantly exploring new avenues to leverage these fields for impactful advancements in technology.
 
