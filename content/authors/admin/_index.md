@@ -23,7 +23,7 @@ interests:
   - 📚 Robotics
   - 📚 Machine/Deep learning
   - 📚 Data analysis
-  - 📚 Operations Research and Optimization
+  - 📚 Operations Research
 
 # Education to show in About widget
 education:
