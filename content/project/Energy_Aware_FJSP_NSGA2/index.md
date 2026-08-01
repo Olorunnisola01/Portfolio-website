@@ -45,24 +45,25 @@ The scheduler is a **memetic NSGA-II**: the multi-objective genetic
 algorithm NSGA-II (Deb et al., 2002), augmented with a greedy local-search
 refinement applied to every offspring each generation — alternating
 between machine re-assignment and operation-sequencing moves, keeping any
-move that Pareto-dominates the current solution. This project is a
-compact, independently implemented demonstration of the approach described
-in Burmeister, Guericke, and Schryen (2024), *Flexible Services and
-Manufacturing Journal* — see the
+move that Pareto-dominates the current solution. The scheduler solves real
+Brandimarte (1993) FJSP benchmark instances (`mk01`–`mk10`, parsed from the
+standard Hurink `.fjs` format) rather than synthetic problem instances.
+This project is a compact, independently implemented demonstration of the
+approach described in Burmeister, Guericke, and Schryen (2024), *Flexible
+Services and Manufacturing Journal* — see the
 [GitHub README](https://github.com/Olorunnisola01/energy-aware-fjsp-nsga2#readme)
 for the full citation list and an explicit account of what is simplified
-relative to that paper (random instances rather than the Brandimarte
-benchmark suite, no exact-solver comparison, a simplified local-search
-operator).
+relative to that paper (10 of the paper's 15 benchmark instances, no
+exact-solver comparison, a simplified local-search operator).
 
 #### Results
 
-Running the algorithm for 800 generations on a 15-job/4-machine instance
-converges to an 18-point Pareto front trading off a 200-minute
-minimum-makespan schedule (higher energy cost) against a 239-minute
-schedule at the lowest energy cost found — a genuine, non-trivial
-trade-off surfaced directly from real price data rather than an assumed
-energy rate.
+Running the algorithm for 800 generations on the `mk01` benchmark instance
+(10 jobs, 6 machines, 55 operations) converges to a 15-point Pareto front
+trading off a 42-minute minimum-makespan schedule (higher energy cost)
+against an 88-minute schedule at the lowest energy cost found — a genuine,
+non-trivial trade-off surfaced directly from real price data rather than
+an assumed energy rate.
 
 See the [GitHub repository](https://github.com/Olorunnisola01/energy-aware-fjsp-nsga2)
 for the full implementation, convergence plots, and the resulting Gantt
