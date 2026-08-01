@@ -2,6 +2,11 @@
 title: Operations Research — The Science of Better Decisions
 summary: "A 20-slide primer on optimization taxonomy, the optimization workflow, and Operations Research in production management"
 
+# Excluded from the production build (Hugo skips draft content unless
+# --buildDrafts is passed). The source stays in the repo, just not on the
+# live site.
+draft: true
+
 authors:
 - "Adeleke Olorunnisola Oyeyemi"
 
