@@ -78,7 +78,7 @@ email: "olorunnisola01@gmail.com"
 highlight_name: false
 ---
 
-Olorunnisola is M.Eng graduate in Mechanical Engineering at the [Federal University of Technology, Akure](http://www.futa.edu.ng), driven by a passion for innovation and complex problem-solving. My academic journey began with a B.Eng in Mechanical Engineering, and I’m currently advancing my expertise in material science and robotics, focusing on technologies such as computer vision and deep learning to develop transformative solutions. 
+Olorunnisola is M.Eng graduate in Mechanical Engineering at the [Federal University of Technology, Akure](http://www.futa.edu.ng), driven by a passion for innovation and complex problem-solving. My academic journey began with a B.Eng in Mechanical Engineering, and I’m currently advancing my expertise in material science, operations research and robotics, focusing on technologies such as computer vision and deep learning to develop transformative solutions. 
 
 My interests lie at the intersection of materials science, production engineering, manufacturing engineering, robotics, machine learning, and data analysis. I am constantly exploring new avenues to leverage these fields for impactful advancements in technology.
 
