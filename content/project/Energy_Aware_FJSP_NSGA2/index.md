@@ -23,6 +23,10 @@ links:
       icon_pack: "fab"
       name: "Source code"
       url: "https://github.com/Olorunnisola01/energy-aware-fjsp-nsga2"
+    - icon: "file-pdf"
+      icon_pack: "fas"
+      name: "Documentation"
+      url: "/uploads/energy_aware_fjsp_nsga2_documentation.pdf"
 
 slides: ""
 ---
@@ -67,4 +71,7 @@ an assumed energy rate.
 
 See the [GitHub repository](https://github.com/Olorunnisola01/energy-aware-fjsp-nsga2)
 for the full implementation, convergence plots, and the resulting Gantt
-chart.
+chart, or the [full documentation PDF](/uploads/energy_aware_fjsp_nsga2_documentation.pdf)
+for a complete write-up of the motivation, problem formulation,
+methodology, data sources, results, and an explicit comparison against
+Burmeister et al. (2024).
